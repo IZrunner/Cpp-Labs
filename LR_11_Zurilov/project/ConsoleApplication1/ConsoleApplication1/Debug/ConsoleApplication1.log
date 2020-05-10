@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+d:\учёба\1_основи програмування\lr_11_zurilov\project\consoleapplication1\consoleapplication1\consoleapplication1.cpp(42): error C2660: strtok_s: функция не принимает 2 аргументов
+d:\учёба\1_основи програмування\lr_11_zurilov\project\consoleapplication1\consoleapplication1\consoleapplication1.cpp(47): error C2660: strtok_s: функция не принимает 2 аргументов

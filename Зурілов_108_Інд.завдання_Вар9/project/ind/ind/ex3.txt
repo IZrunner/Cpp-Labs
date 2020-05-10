@@ -1,0 +1,5 @@
+
+The least element of the array is 12. 
+It's index is 0
+
+Average of array elements is 1788.5

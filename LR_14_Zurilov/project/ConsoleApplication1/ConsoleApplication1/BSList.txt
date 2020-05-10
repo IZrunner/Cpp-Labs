@@ -1,0 +1,5 @@
+Art_Of_War 10 15
+The_Little_Prince 5 40
+Flowers_For_Algernon 10 45
+A_Clockwork_Orange 25 30
+DoAndroidsDreamOfElectricSheeps? 99 99

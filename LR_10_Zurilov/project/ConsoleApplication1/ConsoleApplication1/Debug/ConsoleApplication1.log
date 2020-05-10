@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+d:\учёба\1_основи програмування\lr_10_zurilov\project\consoleapplication1\consoleapplication1\consoleapplication1.cpp(26): warning C4101: sizeofarray: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\Учёба\1_Основи програмування\LR_10_Zurilov\project\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Учёба\1_Основи програмування\LR_10_Zurilov\project\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

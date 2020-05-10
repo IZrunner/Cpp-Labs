@@ -1,0 +1,9 @@
+﻿  LR3Zurilov108.cpp
+d:\учёба\1_основи програмування\lr_3_zurilov\project\lr_3_zurilov_108\lr_3_zurilov_108\lr3zurilov108.cpp(34): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  d:\учёба\1_основи програмування\lr_3_zurilov\project\lr_3_zurilov_108\lr_3_zurilov_108\lr3zurilov108.cpp(34): note: рекомендуется использовать "%lf" в строке форматирования
+d:\учёба\1_основи програмування\lr_3_zurilov\project\lr_3_zurilov_108\lr_3_zurilov_108\lr3zurilov108.cpp(34): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "2" имеет тип "double *"
+  d:\учёба\1_основи програмування\lr_3_zurilov\project\lr_3_zurilov_108\lr_3_zurilov_108\lr3zurilov108.cpp(34): note: рекомендуется использовать "%lf" в строке форматирования
+d:\учёба\1_основи програмування\lr_3_zurilov\project\lr_3_zurilov_108\lr_3_zurilov_108\lr3zurilov108.cpp(34): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "3" имеет тип "double *"
+  d:\учёба\1_основи програмування\lr_3_zurilov\project\lr_3_zurilov_108\lr_3_zurilov_108\lr3zurilov108.cpp(34): note: рекомендуется использовать "%lf" в строке форматирования
+  LR_3_Zurilov_108.vcxproj -> D:\Учёба\1_Основи програмування\LR_3_Zurilov\project\LR_3_Zurilov_108\Debug\LR_3_Zurilov_108.exe
+  LR_3_Zurilov_108.vcxproj -> D:\Учёба\1_Основи програмування\LR_3_Zurilov\project\LR_3_Zurilov_108\Debug\LR_3_Zurilov_108.pdb (Partial PDB)
